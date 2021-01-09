@@ -7,7 +7,7 @@ VBA is often used in the financial industry. This project is designed to perform
 <br/>
 With the VBA script created, and refactored, automation was done with code performance measured with elapsed time captured and the screenshots of outcomes attached to show the visual analysis on a variety of stocks for the year 2017 and 2018.
 
-## 2. Results Analysis on Stocks
+## 2. Result Analysis on Stocks
 
 ### All Stocks Analysis - 2017
 ---

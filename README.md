@@ -17,7 +17,7 @@ In the year of 2017, all stocks but TERP have a positive yearly return with the 
 
 See below for the 2017 stock returns with positive returns formatted as highlighted in green and negative returns in red:
 
-![VBA_Challenge_2017.png](resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png)
 ### All Stocks Analysis - 2018
 ---
 In the year of 2018, most stocks got hit by the economic crisis and have a negative yearly return. Two exceptions are stock ENPH and stock SEDG with yearly return as 81.9% and 84.0% respectively. DQ stock has a -62.6% yearly return on the negative side.
@@ -26,7 +26,7 @@ In the year of 2018, most stocks got hit by the economic crisis and have a negat
 
 See below for the 2018 stock returns:
 
-![VBA_Challenge_2018.png](resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.png)
 ### All Stocks Analysis - Conclusion
 ---
 Taking both years into consideration, it has shown that ENPH stock not only had done fairly well in the year of 2017 (with a positive return of 129.5%, within top three high returns), it remained as high returns in 2018 even with the attack of the crisis. The stability of the stock return for ENPH has made it the best choice for investors in the upcoming years based on the stock data used in this analysis.
@@ -39,11 +39,11 @@ Based on the original code written, the run time of the code is on average aroun
 
 Compare them with the refactored code run time. Please refer to the above stock outcome screenshots taken and the performance measured with elapsed time showing (0.114s for year 2017 and 0.108s for year 2018). There is a comparable difference even for such a small amount of data rows (3013 rows in total).
 
-![VBA_Challenge_2017_original.png](resources/VBA_Challenge_2017_original.png)
+![VBA_Challenge_2017_original.png](Resources/VBA_Challenge_2017_original.png)
 
 <br/>
 
-![VBA_Challenge_2018_original.png](resources/VBA_Challenge_2018_original.png)
+![VBA_Challenge_2018_original.png](Resources/VBA_Challenge_2018_original.png)
 
 ## 3. Summary on VBA Scripting
 
